@@ -1,4 +1,6 @@
-package com.luv2code.springdemo;
+package com.prayag.springdemo;
+
+import com.luv2code.springdemo.FortuneService;
 
 public class HappyFortuneService implements FortuneService {
 

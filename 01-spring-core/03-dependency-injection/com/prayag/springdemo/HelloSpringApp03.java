@@ -1,8 +1,10 @@
-package com.luv2code.springdemo;
+package com.prayag.springdemo;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-public class HelloSpringApp {
+import com.luv2code.springdemo.Coach;
+
+public class HelloSpringApp03 {
 
 	public static void main(String[] args) {
 
